@@ -6,8 +6,8 @@ Instructions on how to deploy cloud infrastructure.
 #### Clone this repo to download all course materials:
 
 ```bash
-git clone https://github.com/ashishpatel-git/bsides_workshop.git
-cd bsides_workshop
+git clone https://github.com/ifthisthenhack/bsides.git
+cd bsides
 ```
 
 FIXME: maybe change the name of this repo to be the same-ish as the workshop title.
